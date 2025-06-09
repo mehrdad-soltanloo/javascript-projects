@@ -2,7 +2,7 @@
 
 This repository contains my personal JavaScript projects, built during my learning journey.
 
-Each folder is a self-contained mini project, written and explained using the Feynman technique whenever possible.
+Each folder is a self-contained mini project, written and explained.
 
 I use this repo to:
 
